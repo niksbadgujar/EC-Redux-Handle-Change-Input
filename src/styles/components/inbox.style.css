@@ -1,0 +1,82 @@
+.inbox-section {
+  width: 22%;
+  border-right: 2px inset #9999b3;
+}
+
+.mail-box {
+  height: 105px;
+  text-overflow: ellipsis;
+  overflow-y: hidden;
+  border: 1px solid lightblue;
+  padding-left: 5%;
+  cursor: default;
+  margin-bottom: 5px;
+  padding-bottom: 5px;
+}
+
+.mail-box:hover {
+  background: #deeffb;
+}
+
+.mail-content-section {
+  cursor: pointer;
+}
+
+.mail-short-content {
+  font-weight: 400;
+}
+
+.mail-details-section {
+  width: 63%;
+  background: #ececec;
+}
+
+.mail-body {
+  width: 70%;
+  padding: 2%;
+  border: 1px solid #d2cece;
+}
+
+.delete-button {
+  height: 20px;
+  margin: 6px 3px;
+  background: #ffbdae;
+  border: 0px;
+  border-radius: 8px;
+  outline: none;
+  cursor: pointer;
+}
+
+.flag-button {
+  height: 20px;
+  margin: 6px 3px;
+  background: #ffca6a;
+  border: 0px;
+  border-radius: 8px;
+  outline: none;
+  cursor: pointer;
+}
+
+.subject-line {
+  margin-bottom: 0px;
+  margin-top: 5px;
+}
+
+.mail-operation-section {
+  display: flex;
+  height: 23px;
+}
+
+.category-dropdown {
+  padding: 2%;
+  margin-left: 58%;
+  border: 0px;
+  cursor: pointer;
+  outline: none;
+  background: #e0eaf3;
+}
+
+.no-flagged-text {
+  color: red;
+  text-align: center;
+}

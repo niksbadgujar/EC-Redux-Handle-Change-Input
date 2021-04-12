@@ -1,0 +1,33 @@
+.left-panel {
+  background: #d0d0d0;
+  width: 15%;
+  height: 46em;
+}
+
+.folder {
+  padding: 3%;
+  padding-left: 20%;
+}
+
+.folder:hover {
+  background: #afb4ce;
+}
+
+.folder-title {
+  margin-top: 0px;
+  padding-left: 5%;
+  padding-top: 2%;
+  font-size: large;
+  margin-bottom: 1px;
+}
+
+a {
+  text-decoration: none;
+  color: #000000;
+}
+
+.unread-count {
+  float: right;
+  font-weight: 600;
+  margin-right: 10px;
+}

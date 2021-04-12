@@ -1,0 +1,9 @@
+.header-section {
+  display: block;
+  background: #00082c;
+  height: 45px;
+  color: #ffffff;
+  padding-top: 1%;
+  padding-left: 2%;
+  font-size: larger;
+}

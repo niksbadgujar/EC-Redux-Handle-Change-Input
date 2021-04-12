@@ -1,0 +1,30 @@
+.spam-section {
+  width: 22%;
+  border-right: 2px inset #9999b3;
+}
+
+.mail-short-content {
+  font-weight: 400;
+}
+
+.mail-details-section {
+  width: 63%;
+  background: #ececec;
+}
+
+.mail-body {
+  width: 70%;
+  padding: 2%;
+  border: 1px solid #d2cece;
+}
+
+.mail-box {
+  height: 105px;
+  text-overflow: ellipsis;
+  overflow-y: hidden;
+  border: 1px solid lightblue;
+  padding-left: 5%;
+  cursor: pointer;
+  margin-bottom: 5px;
+  padding-bottom: 5px;
+}

@@ -1,0 +1,39 @@
+.deleted-items-section {
+  width: 22%;
+  border-right: 2px inset #9999b3;
+}
+
+.mail-box {
+  height: 105px;
+  text-overflow: ellipsis;
+  overflow-y: hidden;
+  border: 1px solid lightblue;
+  padding-left: 5%;
+  cursor: default;
+  margin-bottom: 5px;
+  padding-bottom: 8px;
+}
+
+.mail-content-section {
+  cursor: pointer;
+}
+
+.mail-short-content {
+  font-weight: 400;
+}
+
+.mail-details-section {
+  width: 63%;
+  background: #ececec;
+}
+
+.mail-body {
+  width: 70%;
+  padding: 2%;
+  border: 1px solid #d2cece;
+}
+
+.subject-line {
+  margin-bottom: 0px;
+  margin-top: 5px;
+}
